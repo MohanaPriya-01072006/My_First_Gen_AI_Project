@@ -1,3 +1,3 @@
 streamlit
+tensorflow<2.14  # works well with Python ≤3.10
 numpy
-tensorflow
